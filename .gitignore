@@ -1,1 +1,3 @@
 controllers/.history/
+*.lck
+controllers/fp-lib-table
