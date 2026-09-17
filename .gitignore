@@ -1,3 +1,4 @@
-controllers/.history/
+.history
 *.lck
 controllers/fp-lib-table
+_restore_backup*
