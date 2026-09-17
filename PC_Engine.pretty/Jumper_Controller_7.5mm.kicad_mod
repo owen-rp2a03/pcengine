@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at 0 1.635 0)
 		(layer "F.SilkS")
-		(uuid "0c73728e-f695-4d7f-bed6-a1cf0d0c89ea")
+		(uuid "6f1cb15f-f6e9-4b99-8505-887623d81cb7")
 		(effects
 			(font
 				(size 1 1)
@@ -18,7 +18,7 @@
 		(at 0 -1.635 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1bd38f01-4904-4f04-b051-2ce8c6d2fc40")
+		(uuid "ae91d21b-4995-4f6d-824c-fc13e1061a16")
 		(effects
 			(font
 				(size 1 1)
@@ -30,7 +30,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ce682e78-2dae-42ba-a500-af2b4d26cb67")
+		(uuid "f7ceb812-2a55-4176-b168-7583a62d4644")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "92347bd0-0ae1-4a07-adea-6cdacca882c3")
+		(uuid "a9d9b287-65ad-4162-a7a8-b2bff54caf7c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -54,21 +54,21 @@
 		(start -2.3 -0.35)
 		(end 2.3 -0.35)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c404e039-8892-4a08-a482-77b0ca23f2c7")
+		(uuid "6afb540e-eaf5-4e96-a43f-29f9609adb00")
 	)
 	(fp_line
 		(start 2.3 0.35)
 		(end -2.3 0.35)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "671c4ef2-ff4a-43b3-9ae1-9513a031d90a")
+		(uuid "e41d8236-213a-4ae5-a753-94a92b474593")
 	)
 	(fp_line
 		(start -2.3 0.35)
@@ -78,7 +78,7 @@
 			(type solid)
 		)
 		(layer "B.SilkS")
-		(uuid "5694aabf-234c-46c3-ab31-b53ea2d65c99")
+		(uuid "732c809e-f963-40be-a9da-586b738519ae")
 	)
 	(fp_line
 		(start 2.3 -0.35)
@@ -88,7 +88,7 @@
 			(type solid)
 		)
 		(layer "B.SilkS")
-		(uuid "ba9836cc-311c-4958-a42f-34dc6c0bc09e")
+		(uuid "629c4380-e47c-4593-b92f-1096c90b0881")
 	)
 	(pad "1" thru_hole circle
 		(at -3.75 0 180)
@@ -107,7 +107,7 @@
 			(allow_two_segments yes)
 			(prefer_zone_connections yes)
 		)
-		(uuid "99e69472-8416-4bb1-aa82-824ec6e23157")
+		(uuid "7057954a-4f2f-4efb-8902-2d20fdd28392")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -282,7 +282,7 @@
 			(allow_two_segments yes)
 			(prefer_zone_connections yes)
 		)
-		(uuid "458f9125-2d78-4309-90de-5ef5dad7790f")
+		(uuid "f9ecd6b9-274f-468d-af43-e3037ff5096c")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
