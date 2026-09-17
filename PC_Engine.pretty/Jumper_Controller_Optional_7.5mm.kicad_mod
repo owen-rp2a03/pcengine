@@ -1,0 +1,575 @@
+(footprint "Jumper_Controller_Optional_7.5mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 1.635 0)
+		(layer "F.SilkS")
+		(uuid "aa830521-8a3a-4059-a2f8-d939d655d713")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Val**"
+		(at 0 -1.635 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4adc0a1-636a-4928-a6f1-b0d04d0193e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fd56287-4281-4064-bfaf-4f121fa62e6b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b37cfa1-547e-4b54-8641-3ddb099ea836")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.182412 -0.35)
+		(end 2.417588 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "f7ab34be-738c-4416-936e-4a6c90f160d4")
+	)
+	(fp_line
+		(start -2.182412 0.4)
+		(end 2.417588 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "b5dcc8d1-5236-460c-8c4f-94cd5b22503d")
+	)
+	(fp_line
+		(start -2.090434 -0.35)
+		(end 2.509566 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "dbf28ede-9437-4bec-8a5f-de8aae06f84b")
+	)
+	(fp_line
+		(start -2.090434 0.4)
+		(end 2.509566 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "037bfbf3-9f06-4437-8891-dc60bfef0d5a")
+	)
+	(fp_line
+		(start -1.145217 -0.35)
+		(end 2.454783 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "4f1d409b-db23-4ff5-98f2-e8d4fbbc4342")
+	)
+	(fp_line
+		(start -1.145217 0.4)
+		(end 2.454783 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "8abdccd2-5fa8-4efa-9884-01a56a875fbb")
+	)
+	(fp_line
+		(start -1.053239 -0.35)
+		(end 2.546761 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "25931961-f3b2-4868-a7c2-8d08564480d5")
+	)
+	(fp_line
+		(start -1.053239 0.4)
+		(end 2.546761 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "9cb577d2-30a2-4dc7-ad3c-510d286234ae")
+	)
+	(fp_line
+		(start 1.070827 -0.35)
+		(end -2.529173 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "daec5be0-1510-4b73-b052-1ee68858309f")
+	)
+	(fp_line
+		(start 1.070827 0.4)
+		(end -2.529173 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "ad33470d-7bfa-4ca6-865c-ba315f3bfb20")
+	)
+	(fp_line
+		(start 1.162805 -0.35)
+		(end -2.437195 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "24a547fb-de7b-4043-8ace-1812a2c669a5")
+	)
+	(fp_line
+		(start 1.162805 0.4)
+		(end -2.437195 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "db73132c-1e03-4b7a-84a2-c64f057e0929")
+	)
+	(fp_line
+		(start 2.108022 -0.35)
+		(end -2.491978 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "d76828a7-5a29-4fd6-9ba3-d526a936f6ea")
+	)
+	(fp_line
+		(start 2.108022 0.4)
+		(end -2.491978 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "8d5b5acd-abf4-455b-9277-240d8c9770f9")
+	)
+	(fp_line
+		(start 2.2 -0.35)
+		(end -2.4 -0.35)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "e713174d-e144-4de4-84b8-37a0007f176b")
+	)
+	(fp_line
+		(start 2.2 0.4)
+		(end -2.4 0.4)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "b37f9d03-f063-42e8-8355-f62a12a2203e")
+	)
+	(pad "1" thru_hole circle
+		(at -3.75 0 180)
+		(size 0.1 0.1)
+		(drill 1)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "0270662a-a955-4f37-933d-2e572fce3d0a")
+		(padstack
+			(mode custom)
+			(layer "In1.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+			)
+			(layer "In2.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In3.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In4.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In5.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In6.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In7.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In8.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In9.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In10.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In11.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In12.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In13.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In14.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In15.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In16.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In17.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In18.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In19.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In20.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In21.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In22.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In23.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In24.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In25.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In26.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In27.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In28.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In29.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In30.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "B.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+			)
+		)
+	)
+	(pad "2" thru_hole circle
+		(at 3.75 0 180)
+		(size 0.1 0.1)
+		(drill 1)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "4365a3a0-5714-4731-b967-ccba48440b8e")
+		(padstack
+			(mode custom)
+			(layer "In1.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+			)
+			(layer "In2.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In3.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In4.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In5.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In6.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In7.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In8.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In9.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In10.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In11.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In12.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In13.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In14.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In15.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In16.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In17.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In18.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In19.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In20.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In21.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In22.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In23.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In24.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In25.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In26.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In27.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In28.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In29.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "In30.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+				(zone_connect -1)
+			)
+			(layer "B.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
+		(offset
+			(xyz -3.75 0 0)
+		)
+		(scale
+			(xyz 0.9843 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

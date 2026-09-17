@@ -1,0 +1,647 @@
+(footprint "CP_Controller_5.0mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 2.282815 0)
+		(layer "F.SilkS")
+		(uuid "0b693ea2-a3d3-4d54-8643-cf2dfc091ccd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Val**"
+		(at 0 -1.635 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57897ad3-82a8-4954-b997-2d71f9a722fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de0a0cf4-c6ec-4a66-b5f6-62015973edbf")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f178045c-a79d-4742-a16c-059027596f0c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.5 -0.017185)
+		(end -3.7 -0.017185)
+		(stroke
+			(width 2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "74f34266-1c5e-4886-9af1-15b0b9313cfc")
+	)
+	(fp_line
+		(start -1.65 -1.7)
+		(end -1.65 -1.3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4b1e11d-f63f-43f6-8201-dfb26f3d879a")
+	)
+	(fp_line
+		(start -0.5 -0.667185)
+		(end 0.5 -0.401554)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80b0963b-cfb0-4fa5-9030-e142a6b46c8d")
+	)
+	(fp_line
+		(start -0.5 -0.150001)
+		(end 0.5 0.11563)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c7d30efd-0a1d-49ea-9f09-9e8c1aac2149")
+	)
+	(fp_line
+		(start -0.5 -0.017185)
+		(end -1.1 -0.017185)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e3ff5779-915f-4629-a7d3-6fdfaa4a894a")
+	)
+	(fp_line
+		(start -0.5 0.367184)
+		(end 0.5 0.632815)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c67fb78-2747-4179-8c63-0763f54fb4c8")
+	)
+	(fp_line
+		(start -0.5 0.632815)
+		(end -0.5 -0.667185)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8f249219-f902-4cee-9ca6-c7ee8bf18b64")
+	)
+	(fp_line
+		(start 0.5 0.632815)
+		(end 0.5 -0.667185)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d6b3f50-1551-4089-893b-357ddcb14e4d")
+	)
+	(fp_line
+		(start 1.1 -0.017185)
+		(end 0.5 -0.017185)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d7a7ebe4-a729-4d2d-91ec-ac5823f84261")
+	)
+	(fp_line
+		(start 1.65 -1.7)
+		(end 1.65 -1.3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79514c09-1152-4108-9d27-0c97beb6e4e5")
+	)
+	(fp_line
+		(start 3.1 -2.4)
+		(end 3.1 -3.6)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8f48cc57-8b79-448c-b3ce-0cff1461686a")
+	)
+	(fp_line
+		(start 3.7 -3)
+		(end 2.5 -3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "48b270d0-aaa3-420a-a31d-3c3ea7393779")
+	)
+	(fp_rect
+		(start -2 -6.7)
+		(end -1.3 -1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "010c6b53-d62b-4d97-8a64-92b5af21752b")
+	)
+	(fp_rect
+		(start -2 -6.7)
+		(end 2 -1.7)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b80c0834-c36a-47fe-99ae-683e11d9a49a")
+	)
+	(fp_line
+		(start -1.1 -0.017185)
+		(end -0.5 -0.017185)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "e677f065-52ff-4eac-8b47-b08ec593b288")
+	)
+	(fp_line
+		(start -0.5 0.632815)
+		(end -0.5 -0.667185)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "6af58b34-567c-4d30-b1b0-c96498adebce")
+	)
+	(fp_line
+		(start 0.5 -0.667185)
+		(end -0.5 -0.401554)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "e323cb91-e787-42f7-ba2a-905472271a92")
+	)
+	(fp_line
+		(start 0.5 -0.150001)
+		(end -0.5 0.11563)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "9e770f79-ceb7-4972-bcd0-84b3e5d6a2c0")
+	)
+	(fp_line
+		(start 0.5 -0.017185)
+		(end 1.1 -0.017185)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "9b6fb907-0a18-4276-941d-be26d0e2df3c")
+	)
+	(fp_line
+		(start 0.5 0.367184)
+		(end -0.5 0.632815)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "ea92cc1a-b9df-4cd7-8005-a59b4c2fe347")
+	)
+	(fp_line
+		(start 0.5 0.632815)
+		(end 0.5 -0.667185)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "dfe7e610-5238-49c9-b14c-889a3e03371e")
+	)
+	(fp_line
+		(start 1.8 -3.017185)
+		(end 3 -3.017185)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "a720b9b8-a8c8-443e-933d-fde9fd1cbec6")
+	)
+	(fp_line
+		(start 2.4 -2.417185)
+		(end 2.4 -3.617185)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "76364b79-4137-4e1c-99e5-36d3d4a32da0")
+	)
+	(pad "1" thru_hole circle
+		(at 2.5 -0.017185)
+		(size 0.1 0.1)
+		(drill 1)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "c57593dd-1c6f-448c-9ba9-6df54797cbfe")
+		(padstack
+			(mode custom)
+			(layer "In1.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+			)
+			(layer "In2.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In3.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In4.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In5.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In6.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In7.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In8.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In9.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In10.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In11.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In12.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In13.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In14.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In15.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In16.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In17.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In18.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In19.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In20.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In21.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In22.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In23.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In24.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In25.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In26.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In27.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In28.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In29.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In30.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "B.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+			)
+		)
+	)
+	(pad "2" thru_hole circle
+		(at -2.5 -0.017185)
+		(size 0.1 0.1)
+		(drill 1)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "fafe3b3d-95d4-4095-815c-a8cfc0a20d0a")
+		(padstack
+			(mode custom)
+			(layer "In1.Cu"
+				(shape circle)
+				(size 0.1 0.1)
+			)
+			(layer "In2.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In3.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In4.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In5.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In6.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In7.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In8.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In9.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In10.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In11.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In12.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In13.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In14.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In15.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In16.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In17.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In18.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In19.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In20.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In21.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In22.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In23.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In24.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In25.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In26.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In27.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In28.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In29.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "In30.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+				(zone_connect -1)
+			)
+			(layer "B.Cu"
+				(shape circle)
+				(size 2.3 2.3)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D5.0mm_H5.0mm_P2.00mm.step"
+		(offset
+			(xyz -1 1 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 45 -0 -0)
+		)
+	)
+)
